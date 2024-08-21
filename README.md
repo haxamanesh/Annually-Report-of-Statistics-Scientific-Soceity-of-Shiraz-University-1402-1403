@@ -25,7 +25,8 @@ The Google Colab notebook is structured as follows:
 
 To view or run the notebook:
 1. Clone this repository.
-2. Open the `Untitled0.ipynb` notebook in Google Colab or Jupyter Notebook.
+2. Open the `Annually-Report-of-Statistics-Scientific-Soceity-of-Shiraz-University-1402-1403
+.ipynb` notebook in Google Colab or Jupyter Notebook.
 3. Run the cells to reproduce the analysis and visualizations.
 
 ### Prerequisites
